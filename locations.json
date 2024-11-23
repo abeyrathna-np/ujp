@@ -1,0 +1,70 @@
+{
+  "markers": [
+    {
+      "id": 1,
+      "name": "Sigiriya",
+      "description": "An ancient rock fortress and UNESCO World Heritage Site.",
+      "coordinates": [80.7446, 7.9569],
+      "additionalInfo": {
+        "architect": "King Kashyapa",
+        "yearBuilt": "5th Century AD",
+        "visitorCount": "500,000 annually"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Temple of the Tooth",
+      "description": "A sacred Buddhist temple housing the relic of the tooth of Buddha.",
+      "coordinates": [80.6350, 7.2935],
+      "additionalInfo": {
+        "architect": "Sri Lankan Kings",
+        "yearBuilt": "4th Century AD",
+        "visitorCount": "1,000,000 annually"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Galle Fort",
+      "description": "A historic fort built by the Portuguese and later expanded by the Dutch.",
+      "coordinates": [80.2170, 6.0328],
+      "additionalInfo": {
+        "architect": "Portuguese and Dutch",
+        "yearBuilt": "1588",
+        "visitorCount": "750,000 annually"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Horton Plains National Park",
+      "description": "A protected area rich in biodiversity, famous for World's End viewpoint.",
+      "coordinates": [80.8043, 6.8028],
+      "additionalInfo": {
+        "architect": "Nature",
+        "yearBuilt": "Declared in 1988",
+        "visitorCount": "300,000 annually"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Yala National Park",
+      "description": "The most visited and second largest national park in Sri Lanka.",
+      "coordinates": [81.5168, 6.3619],
+      "additionalInfo": {
+        "architect": "Nature",
+        "yearBuilt": "Declared in 1900",
+        "visitorCount": "200,000 annually"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Adam's Peak",
+      "description": "A sacred mountain with religious significance for Buddhists, Hindus, Muslims, and Christians.",
+      "coordinates": [80.4999, 6.8090],
+      "additionalInfo": {
+        "architect": "Nature",
+        "yearBuilt": "Sacred since antiquity",
+        "visitorCount": "250,000 annually"
+      }
+    }
+  ]
+}
